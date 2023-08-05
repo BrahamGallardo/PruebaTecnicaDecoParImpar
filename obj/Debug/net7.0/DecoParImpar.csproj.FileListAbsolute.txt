@@ -1,0 +1,15 @@
+C:\Projects\Deco\DecoParImpar\bin\Debug\net7.0\DecoParImpar.exe
+C:\Projects\Deco\DecoParImpar\bin\Debug\net7.0\DecoParImpar.deps.json
+C:\Projects\Deco\DecoParImpar\bin\Debug\net7.0\DecoParImpar.runtimeconfig.json
+C:\Projects\Deco\DecoParImpar\bin\Debug\net7.0\DecoParImpar.dll
+C:\Projects\Deco\DecoParImpar\bin\Debug\net7.0\DecoParImpar.pdb
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.csproj.AssemblyReference.cache
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.AssemblyInfoInputs.cache
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.AssemblyInfo.cs
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.csproj.CoreCompileInputs.cache
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.dll
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\refint\DecoParImpar.dll
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.pdb
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\DecoParImpar.genruntimeconfig.cache
+C:\Projects\Deco\DecoParImpar\obj\Debug\net7.0\ref\DecoParImpar.dll
